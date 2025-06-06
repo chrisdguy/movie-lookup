@@ -23,4 +23,5 @@ dist-ssr
 *.sln
 *.sw?
 
-src/services/key.js
+frontend/src/services/key.js
+api_data_format_reference.json
