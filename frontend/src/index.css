@@ -1,1 +1,6 @@
 @import "tailwindcss";
+
+@theme {
+  --breakpoint-3xl: 200rem;
+  --container-8xl: 200rem;
+}
